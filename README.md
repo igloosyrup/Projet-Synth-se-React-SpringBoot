@@ -1,2 +1,2 @@
-# Projet-Synth-se-React-SpringBoot
+# Projet-Synthese-React-SpringBoot
 Projet de synthèse Springboot React shopping cart VPN et Antivirus
