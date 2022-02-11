@@ -1,4 +1,4 @@
-package com.igloosryup.syrupsecurity.models;
+package com.igloosryup.syrupsecurity.model;
 
 import lombok.Data;
 

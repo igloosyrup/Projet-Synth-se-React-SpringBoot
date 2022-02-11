@@ -1,7 +1,6 @@
-package com.igloosryup.syrupsecurity.models;
+package com.igloosryup.syrupsecurity.model;
 
 import lombok.Data;
-import org.springframework.boot.context.properties.bind.DefaultValue;
 
 import javax.persistence.*;
 import java.util.List;
