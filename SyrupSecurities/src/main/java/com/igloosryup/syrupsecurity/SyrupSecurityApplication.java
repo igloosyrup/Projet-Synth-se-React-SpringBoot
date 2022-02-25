@@ -1,6 +1,5 @@
 package com.igloosryup.syrupsecurity;
 
-import com.igloosryup.syrupsecurity.models.Admin;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
